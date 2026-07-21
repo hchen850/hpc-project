@@ -1,0 +1,9 @@
+INFO [2026-07-20 15:40:10] $x
+INFO [2026-07-20 15:40:10] list(PD = sig_genes_PD, SCA2 = sig_genes_SCA2)
+INFO [2026-07-20 15:40:10] 
+INFO [2026-07-20 15:40:10] $filename
+INFO [2026-07-20 15:40:10] [1] "figures/SCA2_PD_comparison.png"
+INFO [2026-07-20 15:40:10] 
+INFO [2026-07-20 15:40:10] $category.names
+INFO [2026-07-20 15:40:10] c("PD", "SCA2")
+INFO [2026-07-20 15:40:10] 
